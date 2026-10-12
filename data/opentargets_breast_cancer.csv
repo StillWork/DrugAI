@@ -1,0 +1,301 @@
+symbol,ensembl,name,ot_score,sm_tractable,ab_tractable,approved_drug,genetic_literature,affected_pathway,literature,genetic_association,somatic_mutation,animal_model,clinical
+BRCA2,ENSG00000139618,BRCA2 DNA repair associated,0.9251,True,False,False,0.9349,0.8655,0.9968,0.978,0.8837,,
+BRCA1,ENSG00000012048,BRCA1 DNA repair associated,0.9194,True,True,False,0.9329,0.8655,0.9992,0.9761,0.8987,0.4018,
+CHEK2,ENSG00000183765,checkpoint kinase 2,0.8837,True,False,False,0.8681,,0.9916,0.9578,0.611,,0.1693
+PALB2,ENSG00000083093,partner and localizer of BRCA2,0.8831,True,False,False,0.9242,,0.9893,0.9746,0.8413,,
+PIK3CA,ENSG00000121879,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",0.8776,True,False,True,0.4876,0.8254,0.9976,0.897,0.9466,,0.9438
+ATM,ENSG00000149311,ATM serine/threonine kinase,0.867,True,False,False,0.8655,,0.9907,0.9623,0.6546,0.357,
+TP53,ENSG00000141510,tumor protein p53,0.865,True,False,False,0.9067,0.6079,0.9987,0.8949,0.9497,0.493,0.1444
+ESR1,ENSG00000091831,estrogen receptor 1,0.8587,True,True,True,,0.8492,0.9997,0.7453,0.8434,,0.9943
+AKT1,ENSG00000142208,AKT serine/threonine kinase 1,0.8328,True,True,False,0.6079,0.7579,0.9972,0.5514,0.8946,,0.9048
+ERBB2,ENSG00000141736,erb-b2 receptor tyrosine kinase 2,0.8322,True,True,True,,0.8678,0.9999,0.0,0.8292,,0.9956
+RAD51C,ENSG00000108384,RAD51 paralog C,0.8224,True,False,False,0.8304,,0.9165,0.9058,0.6941,0.2496,
+BRIP1,ENSG00000136492,BRCA1 interacting DNA helicase 1,0.819,False,False,False,0.6705,,0.9454,0.9327,0.8932,0.2592,
+CDH1,ENSG00000039068,cadherin 1,0.8157,True,True,False,0.304,0.6079,0.9905,0.9328,0.911,,
+BARD1,ENSG00000138376,BRCA1 associated RING domain 1,0.8052,True,False,False,0.8443,,0.9696,0.8806,0.7008,0.2659,
+PTEN,ENSG00000171862,phosphatase and tensin homolog,0.7968,True,True,False,0.8586,0.9191,0.9962,0.7937,0.897,0.6386,
+RAD51D,ENSG00000185379,RAD51 paralog D,0.7862,True,False,False,0.814,,0.793,0.8718,0.6518,,
+FGFR2,ENSG00000066468,fibroblast growth factor receptor 2,0.7773,True,True,True,,0.7095,0.9818,0.751,0.6486,,0.4984
+MAP3K1,ENSG00000095015,mitogen-activated protein kinase kinase kinase 1,0.7719,True,False,False,0.38,,0.9264,0.5895,0.9254,,
+EGFR,ENSG00000146648,epidermal growth factor receptor,0.7573,True,True,True,,0.2942,0.9979,0.4863,0.5604,,0.9703
+TBX3,ENSG00000135111,T-box transcription factor 3,0.7564,True,False,False,,0.2967,0.9558,0.671,0.8966,,
+CDK6,ENSG00000105810,cyclin dependent kinase 6,0.7441,True,False,True,,,0.7633,,0.87,,0.9896
+GATA3,ENSG00000107485,GATA binding protein 3,0.7388,False,False,False,,0.5642,0.9931,0.0,0.8413,,
+ERBB4,ENSG00000178568,erb-b2 receptor tyrosine kinase 4,0.7385,True,True,True,,0.6079,0.9722,0.4896,0.7638,,0.8905
+CCND1,ENSG00000110092,cyclin D1,0.7384,True,False,False,,0.43,0.9894,0.2729,0.6613,,0.9722
+CDK4,ENSG00000135446,cyclin dependent kinase 4,0.7325,True,False,True,,0.3982,0.9937,0.0,0.6349,,0.9896
+POLD1,ENSG00000062822,"DNA polymerase delta 1, catalytic subunit",0.7268,True,False,True,,,0.8531,0.2791,0.6252,,0.9601
+MAP2K4,ENSG00000065559,mitogen-activated protein kinase kinase 4,0.7195,True,False,False,,,0.8977,0.2344,0.9118,,
+NBN,ENSG00000104320,nibrin,0.7182,True,False,False,0.4876,,0.8114,0.8372,0.6909,0.3428,
+KMT2C,ENSG00000055609,lysine methyltransferase 2C,0.7181,True,False,False,,,0.9056,0.0,0.9289,,
+FOXA1,ENSG00000129514,forkhead box A1,0.717,False,False,False,,0.4029,0.9897,0.0,0.8979,,
+POLE,ENSG00000177084,"DNA polymerase epsilon, catalytic subunit",0.7155,True,True,True,,,0.7442,0.293,0.7002,,0.9601
+AR,ENSG00000169083,androgen receptor,0.7137,True,False,True,,0.8655,0.9984,0.0,0.7524,,0.8792
+KRAS,ENSG00000133703,"KRas proto-oncogene, GTPase",0.7123,True,True,True,0.6079,0.3113,0.9526,0.8392,0.6973,0.4227,0.1621
+PPM1D,ENSG00000170836,"protein phosphatase, Mg2+/Mn2+ dependent 1D",0.708,True,False,False,0.304,,0.8964,0.6889,0.7508,,
+TERT,ENSG00000164362,telomerase reverse transcriptase,0.7071,True,False,False,,,0.9636,0.769,0.8429,,0.165
+NCOR1,ENSG00000141027,nuclear receptor corepressor 1,0.7014,True,False,False,,,0.7279,0.1824,0.8995,,
+CBFB,ENSG00000067955,core-binding factor subunit beta,0.6975,True,False,False,,,0.9355,0.0,0.9012,,
+NF1,ENSG00000196712,neurofibromin 1,0.6926,True,True,False,,,0.9831,0.6133,0.8471,,
+FBXO11,ENSG00000138081,F-box protein 11,0.6915,False,False,False,,,0.8358,0.9046,0.8571,,
+ARID1A,ENSG00000117713,AT-rich interaction domain 1A,0.6835,False,False,False,,0.7599,0.9752,0.0,0.8559,,
+KDR,ENSG00000128052,kinase insert domain receptor,0.6816,True,True,True,,,0.9756,0.0,0.5917,,0.9145
+EBF1,ENSG00000164330,EBF transcription factor 1,0.6806,True,False,False,,,0.7795,0.8727,0.884,,
+TOP1,ENSG00000198900,DNA topoisomerase I,0.6799,True,False,True,,,0.8849,0.0604,0.4564,,0.9798
+RAD51B,ENSG00000182185,RAD51 paralog B,0.6781,True,False,False,,,0.8642,0.6312,0.8809,,
+RND2,ENSG00000108830,Rho family GTPase 2,0.6715,False,True,False,,,0.0477,0.9668,0.5471,,
+MSH6,ENSG00000116062,mutS homolog 6,0.6691,True,False,False,0.0061,,0.8542,0.9055,0.7032,,
+AKT2,ENSG00000105221,AKT serine/threonine kinase 2,0.6675,True,True,False,,,0.9204,0.0,0.6909,,0.9048
+MLH1,ENSG00000076242,mutL homolog 1,0.6666,True,False,False,0.0061,,0.9372,0.9001,0.7008,,
+PIK3CB,ENSG00000051382,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",0.666,True,False,False,,0.7262,0.9424,0.0,0.8571,,0.6596
+SETBP1,ENSG00000152217,SET binding protein 1,0.6656,False,False,False,,,0.4105,0.8071,0.884,,
+PRIM1,ENSG00000198056,DNA primase subunit 1,0.6651,True,False,True,,,0.3199,0.4059,,,0.9601
+MSH2,ENSG00000095002,mutS homolog 2,0.6647,True,False,False,0.0061,,0.7086,0.9027,0.6978,,
+CUX1,ENSG00000257923,cut like homeobox 1,0.664,False,False,False,,,0.8928,0.5384,0.7636,,
+FOXP1,ENSG00000114861,forkhead box P1,0.6621,True,False,False,,,0.8348,0.51,0.7645,,
+PMS2,ENSG00000122512,"PMS1 homolog 2, mismatch repair system component",0.6608,True,False,False,0.0061,,0.8122,0.8983,0.6806,,
+MLLT10,ENSG00000078403,MLLT10 histone lysine methyltransferase DOT1L cofactor,0.659,False,False,False,,,0.1782,0.694,0.8498,,
+RAD50,ENSG00000113522,RAD50 double strand break repair protein,0.6549,False,False,False,0.0061,,0.4841,0.8859,0.7057,0.3229,
+SF3B1,ENSG00000115524,splicing factor 3b subunit 1,0.653,True,False,False,,,0.887,0.0,0.8436,,
+AKT3,ENSG00000117020,AKT serine/threonine kinase 3,0.6512,True,True,False,,0.7599,0.6486,0.0,0.4643,,0.9048
+TOP2A,ENSG00000131747,DNA topoisomerase II alpha,0.6502,True,True,True,,0.6079,0.9478,0.0,,,0.9725
+FHIT,ENSG00000189283,fragile histidine triad diadenosine triphosphatase,0.6493,True,True,False,,,0.8827,0.6093,0.8962,,
+NOTCH2,ENSG00000134250,notch receptor 2,0.6492,True,True,False,,0.7599,0.5688,0.3859,0.7563,,
+RB1,ENSG00000139687,RB transcriptional corepressor 1,0.6489,True,False,False,,,0.9895,0.0,0.8363,,
+TCF7L2,ENSG00000148737,transcription factor 7 like 2,0.6472,True,False,False,,,0.6046,0.6564,0.846,,
+FANCC,ENSG00000158169,FA complementation group C,0.6468,False,False,False,,,0.7409,0.8056,0.846,,
+C11orf65,ENSG00000166323,chromosome 11 open reading frame 65,0.6463,False,False,False,,,,0.8505,,,
+TET2,ENSG00000168769,tet methylcytosine dioxygenase 2,0.6456,True,False,False,,,0.9631,0.7205,0.6964,,
+CD274,ENSG00000120217,CD274 molecule,0.642,True,True,True,,,0.998,,0.6602,,0.8689
+H3C2,ENSG00000286522,H3 clustered histone 2,0.6375,False,False,False,,0.6079,0.0304,,0.7365,,
+CYP19A1,ENSG00000137869,cytochrome P450 family 19 subfamily A member 1,0.636,True,False,True,,,0.9802,,,,0.9971
+MUTYH,ENSG00000132781,mutY DNA glycosylase,0.6349,True,False,False,0.0076,,0.7303,0.8725,0.6206,,
+CDKN2B,ENSG00000147883,cyclin dependent kinase inhibitor 2B,0.634,False,False,False,,,0.8916,0.8674,0.6228,,
+DROSHA,ENSG00000113360,drosha ribonuclease III,0.6328,False,False,False,,,0.5983,0.5593,0.8878,,
+FANCD2,ENSG00000144554,FA complementation group D2,0.632,True,False,False,,,0.6574,0.7475,0.8382,,
+TUBB3,ENSG00000258947,tubulin beta 3 class III,0.6315,True,False,True,,,0.8489,0.0,,,0.9963
+TUBA1B,ENSG00000123416,tubulin alpha 1b,0.6308,True,False,True,,,0.8275,,,,0.9963
+TUBA1C,ENSG00000167553,tubulin alpha 1c,0.6308,True,False,True,,,0.8263,0.0,,,0.9963
+TUBB,ENSG00000196230,tubulin beta class I,0.6303,True,True,True,,,0.8108,,,,0.9963
+CDC73,ENSG00000134371,cell division cycle 73,0.6295,False,False,False,,,0.7333,0.5593,0.8793,,
+TUBB2B,ENSG00000137285,tubulin beta 2B class IIb,0.6282,True,False,True,,,0.7397,,,,0.9963
+CDKN1B,ENSG00000111276,cyclin dependent kinase inhibitor 1B,0.6276,True,False,False,,,0.9823,0.0,0.8084,,
+TYMS,ENSG00000176890,thymidylate synthetase,0.6275,True,False,True,,,0.9133,0.0,,,0.9865
+NTRK3,ENSG00000140538,neurotrophic receptor tyrosine kinase 3,0.6263,True,True,True,,0.8275,0.8644,,0.8957,,0.183
+ESR2,ENSG00000140009,estrogen receptor 2,0.623,True,False,True,,,0.9928,0.0,,,0.9751
+VEGFA,ENSG00000112715,vascular endothelial growth factor A,0.6216,True,True,True,,,0.9947,0.0406,,,0.9671
+CACNA1D,ENSG00000157388,calcium voltage-gated channel subunit alpha1 D,0.6214,True,True,True,,,0.5845,0.0,0.7438,,0.4593
+TUBB2A,ENSG00000137267,tubulin beta 2A class IIa,0.6193,True,False,True,,,0.4464,0.0,,,0.9963
+CDKN2A,ENSG00000147889,cyclin dependent kinase inhibitor 2A,0.6193,False,False,False,,,0.9813,0.7788,0.6554,,
+MRTFA,ENSG00000196588,myocardin related transcription factor A,0.6171,False,False,False,,,0.9246,0.5001,0.8382,,
+FTO,ENSG00000140718,FTO alpha-ketoglutarate dependent dioxygenase,0.6169,True,False,False,,,0.9825,0.7726,,,
+FAT4,ENSG00000196159,FAT atypical cadherin 4,0.6156,False,False,False,,,0.3315,0.4132,0.7276,,
+TACSTD2,ENSG00000184292,tumor associated calcium signal transducer 2,0.6148,False,False,True,,,0.9806,,,,0.9623
+TUBA1A,ENSG00000167552,tubulin alpha 1a,0.6138,True,False,True,,,0.2678,,,,0.9963
+TUBA4A,ENSG00000127824,tubulin alpha 4a,0.6126,True,True,True,,,0.2279,,,,0.9963
+RRM2,ENSG00000171848,ribonucleotide reductase regulatory subunit M2,0.6125,True,False,True,,,0.9524,0.0,,,0.96
+TUBA3E,ENSG00000152086,tubulin alpha 3e,0.6108,True,False,True,,,0.1674,0.0,,,0.9963
+TUBB1,ENSG00000101162,tubulin beta 1 class VI,0.6108,True,False,True,,,0.1669,0.0,,,0.9963
+FGFR4,ENSG00000160867,fibroblast growth factor receptor 4,0.6083,True,True,True,,0.7599,0.9759,0.0,0.6941,,0.495
+TOX3,ENSG00000103460,TOX high mobility group box family member 3,0.6079,False,False,False,,,0.9452,0.7621,,,
+TUBB6,ENSG00000176014,tubulin beta 6 class V,0.6077,True,False,True,,,0.0675,0.0,,,0.9963
+KLF4,ENSG00000136826,KLF transcription factor 4,0.6075,False,False,False,,,0.9845,0.6086,0.6475,,
+ZFHX3,ENSG00000140836,zinc finger homeobox 3,0.6074,False,False,False,,,0.8983,0.0,0.7833,,
+TUBB4B,ENSG00000188229,tubulin beta 4B class IVb,0.607,True,True,True,,,0.0437,,,,0.9963
+TUBA3C,ENSG00000198033,tubulin alpha 3c,0.6069,True,False,True,,,0.0393,,,,0.9963
+TUBB8,ENSG00000261456,tubulin beta 8 class VIII,0.6066,True,False,True,,,0.0304,0.0,,,0.9963
+MN1,ENSG00000169184,"MN1 proto-oncogene, transcriptional regulator",0.6062,False,False,False,,,0.3128,0.6252,0.834,,
+TUBB4A,ENSG00000104833,tubulin beta 4A class IVa,0.6062,True,False,True,,,0.0165,0.0,,,0.9963
+SUZ12,ENSG00000178691,SUZ12 polycomb repressive complex 2 subunit,0.6054,True,False,False,,0.6079,0.257,0.0,0.8382,,
+GNRHR,ENSG00000109163,gonadotropin releasing hormone receptor,0.6051,True,True,True,,,0.8377,,,,0.9535
+FKBP1A,ENSG00000088832,FKBP prolyl isomerase 1A,0.6048,True,False,True,,,0.7934,,,,0.9552
+POLD2,ENSG00000106628,"DNA polymerase delta 2, accessory subunit",0.6039,True,False,True,,,0.6644,0.0,,,0.9601
+RRM2B,ENSG00000048392,ribonucleotide reductase regulatory TP53 inducible subunit M2B,0.602,True,False,False,,,0.6058,0.0,,,0.96
+CASP8,ENSG00000064012,caspase 8,0.6011,True,False,False,,,0.9453,0.6265,0.671,,
+HIF1A,ENSG00000100644,hypoxia inducible factor 1 subunit alpha,0.601,True,False,False,,,0.9949,0.4439,0.8278,,
+PAX5,ENSG00000196092,paired box 5,0.6008,True,False,False,,,0.89,0.4171,0.8382,,
+CDH11,ENSG00000140937,cadherin 11,0.5993,False,True,False,,,0.959,0.5471,0.8278,,
+RRM1,ENSG00000167325,ribonucleotide reductase catalytic subunit M1,0.5991,True,False,True,,,0.5092,0.0,,,0.96
+DHFR,ENSG00000228716,dihydrofolate reductase,0.5967,True,False,True,,,0.4179,0.0,,,0.9606
+PARP1,ENSG00000143799,poly(ADP-ribose) polymerase 1,0.5957,True,False,True,,,0.9895,0.0,,,0.9304
+PRC1,ENSG00000198901,protein regulator of cytokinesis 1,0.5945,True,True,False,,,0.3261,0.7765,,,
+ARID1B,ENSG00000049618,AT-rich interaction domain 1B,0.5933,False,True,False,,,0.9123,0.0,0.7645,,
+MITF,ENSG00000187098,melanocyte inducing transcription factor,0.5932,True,False,False,,,0.916,0.4377,0.846,,
+TBL1XR1,ENSG00000177565,TBL1X/Y related 1,0.5927,False,False,False,,,0.7971,0.3247,0.7163,,
+PIK3R1,ENSG00000145675,phosphoinositide-3-kinase regulatory subunit 1,0.5927,True,True,False,,,0.9528,0.3588,0.6841,,0.6596
+ERBB3,ENSG00000065361,erb-b2 receptor tyrosine kinase 3,0.5917,True,True,True,,0.2979,0.9913,0.0,0.7129,,0.5009
+MDM4,ENSG00000198625,MDM4 regulator of p53,0.5908,True,False,False,,0.3137,0.9457,0.6028,0.6867,,
+MYC,ENSG00000136997,"MYC proto-oncogene, bHLH transcription factor",0.5892,True,False,False,,,0.9964,0.6204,0.6862,,
+LRP1B,ENSG00000168702,LDL receptor related protein 1B,0.5892,False,False,False,,,0.2002,0.0,0.7718,,
+BLM,ENSG00000197299,BLM RecQ like helicase,0.5891,True,False,False,,,0.8304,0.7778,0.6909,,
+RAD51,ENSG00000051180,RAD51 recombinase,0.5869,True,False,False,0.6079,,0.9814,0.6898,0.4449,,
+KDM6A,ENSG00000147050,lysine demethylase 6A,0.5868,True,False,False,,,0.8665,0.0,0.7567,,
+MECOM,ENSG00000085276,MDS1 and EVI1 complex locus,0.5864,False,False,False,,,0.8958,0.0,0.7557,,
+POLA1,ENSG00000101868,"DNA polymerase alpha 1, catalytic subunit",0.5862,True,False,True,,,0.0839,0.0,,,0.9601
+MYH9,ENSG00000100345,myosin heavy chain 9,0.586,False,True,False,,,0.9279,0.0,0.7547,,
+POLE2,ENSG00000100479,"DNA polymerase epsilon 2, accessory subunit",0.5859,True,False,True,,,0.0732,0.0,,,0.9601
+POLA2,ENSG00000014138,"DNA polymerase alpha 2, accessory subunit",0.5849,True,False,True,,,0.04,0.0,,,0.9601
+PRIM2,ENSG00000146143,DNA primase subunit 2,0.5844,True,False,True,,,0.0228,0.0,,,0.9601
+POLE3,ENSG00000148229,"DNA polymerase epsilon 3, accessory subunit",0.584,True,False,True,,,0.0122,,,,0.9601
+POLD3,ENSG00000077514,"DNA polymerase delta 3, accessory subunit",0.584,True,False,True,,,0.0122,,,,0.9601
+POLD4,ENSG00000175482,"DNA polymerase delta 4, accessory subunit",0.5837,True,False,True,,,,0.0,,,0.9601
+TGFBR2,ENSG00000163513,transforming growth factor beta receptor 2,0.5832,True,True,False,,,0.9445,0.7632,0.7002,,
+KAT6B,ENSG00000156650,lysine acetyltransferase 6B,0.5796,True,False,False,,,0.5816,0.0,0.7524,,
+DNMT3A,ENSG00000119772,DNA methyltransferase 3 alpha,0.5795,True,False,True,,0.6079,0.9407,0.5082,0.6106,,0.1885
+NTRK2,ENSG00000148053,neurotrophic receptor tyrosine kinase 2,0.5789,True,True,True,,,0.958,0.0,0.884,,0.183
+EXT1,ENSG00000182197,exostosin glycosyltransferase 1,0.5785,True,False,False,,,0.8166,0.1824,0.8878,,
+MDM2,ENSG00000135679,MDM2 proto-oncogene,0.5779,True,True,False,,0.285,0.9848,0.1402,0.8429,,0.0912
+RET,ENSG00000165731,ret proto-oncogene,0.577,True,True,True,,,0.9752,0.6401,0.7051,,0.643
+UBR5,ENSG00000104517,ubiquitin protein ligase E3 component n-recognin 5,0.577,True,False,False,,,0.8301,0.0,0.7445,,
+NRG1,ENSG00000157168,neuregulin 1,0.5769,False,True,False,,,0.9612,,0.9009,,
+ATP2B3,ENSG00000067842,ATPase plasma membrane Ca2+ transporting 3,0.5765,True,True,False,,,,,0.7587,,
+AFF3,ENSG00000144218,ALF transcription elongation factor 3,0.5758,False,False,False,,,0.7904,,0.9077,,
+PGR,ENSG00000082175,progesterone receptor,0.5758,True,True,True,,,0.9982,,,,0.8972
+ELL,ENSG00000105656,elongation factor for RNA polymerase II,0.5751,False,False,False,,,0.0459,0.3748,0.8279,,
+PTPRK,ENSG00000152894,protein tyrosine phosphatase receptor type K,0.5749,True,True,False,,,0.7994,0.1945,0.8793,,
+LPP,ENSG00000145012,LIM domain containing preferred translocation partner in lipoma,0.5741,False,True,False,,,0.7951,0.0,0.9047,,
+ZMIZ1,ENSG00000108175,zinc finger MIZ-type containing 1,0.5737,False,False,False,,,0.771,0.7241,,,
+PARP2,ENSG00000129484,poly(ADP-ribose) polymerase 2,0.573,True,False,True,,,0.2434,0.0,,,0.9304
+RSPO2,ENSG00000147655,R-spondin 2,0.5727,True,True,False,,,0.7489,,0.9047,,
+PLAG1,ENSG00000181690,PLAG1 zinc finger,0.5727,False,False,False,,,0.0912,,0.752,,
+GPC3,ENSG00000147257,glypican 3,0.5723,False,True,False,,,0.9052,0.0,0.8962,,
+POLQ,ENSG00000051341,DNA polymerase theta,0.5697,True,False,False,0.304,,0.4471,0.1945,0.834,,
+ABL2,ENSG00000143322,"ABL proto-oncogene 2, non-receptor tyrosine kinase",0.5691,True,False,False,,,0.2358,0.0,0.7448,,
+ARHGAP35,ENSG00000160007,Rho GTPase activating protein 35,0.5686,True,False,False,,,0.6681,0.0,0.681,,
+PREX2,ENSG00000046889,"phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2",0.5676,False,False,False,,,0.1099,,0.745,,
+JAK1,ENSG00000162434,Janus kinase 1,0.5668,True,True,True,,,0.8636,0.0,0.7193,,0.1869
+ATRX,ENSG00000085224,ATRX chromatin remodeler,0.5658,False,False,False,,,0.746,0.0,0.8933,,
+GRIN2A,ENSG00000183454,glutamate ionotropic receptor NMDA type subunit 2A,0.5657,True,True,True,,,0.0872,,0.8976,,0.1238
+AFDN,ENSG00000130396,"afadin, adherens junction formation factor",0.5655,True,True,False,,,0.8304,0.0,0.7295,,
+TP63,ENSG00000073282,tumor protein p63,0.565,True,False,False,,,0.8941,0.0,0.8847,,
+NCOR2,ENSG00000196498,nuclear receptor corepressor 2,0.5645,True,False,False,,,0.8343,0.0,0.7264,,
+SND1,ENSG00000197157,staphylococcal nuclease and tudor domain containing 1,0.5643,True,False,False,,,0.8715,0.0,0.8847,,
+ABI1,ENSG00000136754,abl interactor 1,0.5635,False,False,False,,,0.8854,0.0,0.8826,,
+PTPRT,ENSG00000196090,protein tyrosine phosphatase receptor type T,0.5626,True,True,False,,,0.782,0.0,0.8864,,
+PTPN13,ENSG00000163629,protein tyrosine phosphatase non-receptor type 13,0.5625,True,True,False,,,0.8958,0.0,0.8805,,
+ACVR1,ENSG00000115170,activin A receptor type 1,0.5624,True,True,True,,,0.7762,0.0,0.8762,,0.0912
+HMGA2,ENSG00000149948,high mobility group AT-hook 2,0.5623,False,False,False,,,0.9748,,0.8762,,
+MYB,ENSG00000118513,"MYB proto-oncogene, transcription factor",0.5618,True,False,False,,,0.96,0.0,0.8762,,
+PRDM16,ENSG00000142611,PR/SET domain 16,0.5613,False,False,False,,,0.3723,,0.9047,,
+NCOA2,ENSG00000140396,nuclear receptor coactivator 2,0.5611,True,False,False,,,0.8729,0.0,0.8793,,
+STK11,ENSG00000118046,serine/threonine kinase 11,0.561,True,False,False,0.6079,,0.9791,0.5589,0.6964,,
+MSI2,ENSG00000153944,musashi RNA binding protein 2,0.5601,False,False,False,,,0.9015,,0.8762,,
+QKI,ENSG00000112531,"QKI, KH domain containing RNA binding",0.5587,False,False,False,,,0.8576,,0.8762,,
+DDR2,ENSG00000162733,discoidin domain receptor tyrosine kinase 2,0.5583,True,True,True,,,0.9283,,0.8552,,0.1511
+HIP1,ENSG00000127946,huntingtin interacting protein 1,0.5582,False,False,False,,,0.6702,0.0,0.8847,,
+NFATC2,ENSG00000101096,nuclear factor of activated T cells 2,0.5553,True,False,False,,,0.8546,,0.8706,,
+BMPR1A,ENSG00000107779,bone morphogenetic protein receptor type 1A,0.5544,True,True,True,,,0.5431,0.228,0.8429,,
+MAX,ENSG00000125952,MYC associated transcriptional regulator X,0.5535,True,False,False,,,0.3036,,0.723,,
+TOP2B,ENSG00000077097,DNA topoisomerase II beta,0.5525,True,False,True,,,0.2328,0.0,,,0.8972
+WWTR1,ENSG00000018408,WW domain containing transcription regulator 1,0.5507,True,True,False,,,0.9718,0.0,0.8573,,
+EXO1,ENSG00000174371,exonuclease 1,0.5505,True,True,False,,,0.9147,0.7082,,,
+CAMTA1,ENSG00000171735,calmodulin binding transcription activator 1,0.5503,True,False,False,,,0.0717,0.0,0.9016,,
+EPAS1,ENSG00000116016,endothelial PAS domain protein 1,0.55,True,False,True,,,0.9656,0.0,0.8429,,0.1216
+KIT,ENSG00000157404,"KIT proto-oncogene, receptor tyrosine kinase",0.5491,True,True,True,,,0.9652,0.1945,0.7021,,0.6702
+CLTC,ENSG00000141367,clathrin heavy chain,0.549,True,True,False,,,0.4273,0.0,0.7149,,
+RUNX1,ENSG00000159216,RUNX family transcription factor 1,0.548,True,False,False,,,0.9786,0.0,0.7037,,
+STAG2,ENSG00000101972,STAG2 cohesin complex component,0.5465,False,False,False,,,0.1744,0.0,0.8902,,
+KAT6A,ENSG00000083168,lysine acetyltransferase 6A,0.5464,True,False,False,,,0.9318,,0.8522,,
+MAML2,ENSG00000184384,mastermind like transcriptional coactivator 2,0.546,False,False,False,,,0.2687,,0.8847,,
+FDPS,ENSG00000160752,farnesyl diphosphate synthase,0.5452,True,False,True,,,0.7046,0.0,,,0.8615
+WIF1,ENSG00000156076,Wnt inhibitory factor 1,0.545,True,False,False,,,0.9007,0.1945,0.8279,,
+YAP1,ENSG00000137693,Yes1 associated transcriptional regulator,0.5445,True,True,False,,,0.9941,0.0,0.846,,
+TRPS1,ENSG00000104447,transcriptional repressor GATA binding 1,0.5445,False,False,False,,0.2523,0.9839,0.8107,,,
+RICTOR,ENSG00000164327,RPTOR independent companion of MTOR complex 2,0.5439,True,True,False,,,0.8987,0.0,0.8498,,
+BCL2,ENSG00000171791,BCL2 apoptosis regulator,0.5439,True,False,True,,,0.9769,,0.8278,,0.1624
+SYK,ENSG00000165025,spleen associated tyrosine kinase,0.5428,True,True,True,,,0.9626,,0.8413,,0.0304
+ARHGAP26,ENSG00000145819,Rho GTPase activating protein 26,0.5421,False,True,False,,,0.312,0.0,0.8762,,
+SDHC,ENSG00000143252,succinate dehydrogenase complex subunit C,0.542,True,False,False,,,0.5173,0.0,0.8658,,
+APC,ENSG00000134982,APC regulator of Wnt signaling pathway,0.5418,True,True,False,,,0.9602,0.6712,0.7021,,
+ABL1,ENSG00000097007,"ABL proto-oncogene 1, non-receptor tyrosine kinase",0.5416,True,False,True,,,0.902,0.0,0.7002,,0.6828
+MRE11,ENSG00000020922,MRE11 double strand break repair nuclease,0.5415,True,False,False,0.0061,,0.5953,0.8602,,,
+ZFP36L1,ENSG00000185650,ZFP36 like 1 zinc finger CCCH-type,0.541,False,False,False,,,0.2674,0.7012,,,
+LATS2,ENSG00000150457,large tumor suppressor kinase 2,0.5406,True,False,False,,,0.926,,0.8429,,
+SDHB,ENSG00000117118,succinate dehydrogenase complex iron sulfur subunit B,0.5405,True,True,False,,0.2523,0.8359,0.1824,0.7953,,
+PDCD1LG2,ENSG00000197646,programmed cell death 1 ligand 2,0.5404,False,True,False,,,0.9436,0.0,0.8417,,
+EZH2,ENSG00000106462,enhancer of zeste 2 polycomb repressive complex 2 subunit,0.5403,True,False,True,,0.6079,0.9952,0.1525,0.6978,,0.1216
+ZNF521,ENSG00000198795,zinc finger protein 521,0.5403,False,False,False,,,0.0799,,0.8847,,
+FLI1,ENSG00000151702,"Fli-1 proto-oncogene, ETS transcription factor",0.5402,True,False,False,,,0.9475,0.0,0.8413,,
+PBX1,ENSG00000185630,PBX homeobox 1,0.5402,False,False,False,,,0.9448,,0.8413,,
+MTOR,ENSG00000198793,mechanistic target of rapamycin kinase,0.5398,True,True,True,,,0.9922,0.0,0.6064,,0.5764
+FOXO3,ENSG00000118689,forkhead box O3,0.5397,True,True,False,,,0.9903,,0.8382,,
+BCORL1,ENSG00000085185,BCL6 corepressor like 1,0.5396,False,True,False,,,0.2298,0.0,0.8762,,
+MAPK1,ENSG00000100030,mitogen-activated protein kinase 1,0.5392,True,True,False,,,0.9752,,0.8382,,
+ARHGEF12,ENSG00000196914,Rho guanine nucleotide exchange factor 12,0.5388,False,False,False,,,0.1557,0.0,0.7062,,
+NRIP1,ENSG00000180530,nuclear receptor interacting protein 1,0.5385,True,False,False,,,0.9551,0.838,,,
+BRAF,ENSG00000157764,"B-Raf proto-oncogene, serine/threonine kinase",0.5382,True,True,True,,,0.7026,0.0,0.6386,,0.4994
+IKBKB,ENSG00000104365,inhibitor of nuclear factor kappa B kinase subunit beta,0.5379,True,False,False,,,0.9336,0.0,0.8382,,
+MYD88,ENSG00000172936,MYD88 innate immune signal transduction adaptor,0.5379,False,True,False,,,0.9323,,0.8382,,
+NSD2,ENSG00000109685,nuclear receptor binding SET domain protein 2,0.5376,True,False,False,,,0.9234,0.0,0.8382,,
+MTCP1,ENSG00000214827,mature T cell proliferation 1,0.5374,False,False,False,,,0.0608,,0.8809,,
+FLT3,ENSG00000122025,fms related receptor tyrosine kinase 3,0.5372,True,True,True,,,0.8333,0.0,0.6978,,0.6696
+ACVR1B,ENSG00000135503,activin A receptor type 1B,0.5368,True,True,False,,,0.5604,,0.6965,,
+NSD3,ENSG00000147548,nuclear receptor binding SET domain protein 3,0.5368,True,False,False,,,0.8968,0.0,0.8382,,
+NDRG1,ENSG00000104419,N-myc downstream regulated 1,0.5367,False,True,False,,,0.9787,0.0,0.834,,
+PTPRC,ENSG00000081237,protein tyrosine phosphatase receptor type C,0.5364,True,True,False,,,0.7262,0.0,0.846,,
+DDX10,ENSG00000178105,DEAD-box helicase 10,0.5363,True,False,False,,,0.1081,0.0,0.8767,,
+RUNX1T1,ENSG00000079102,RUNX1 partner transcriptional co-repressor 1,0.5361,True,False,False,,,0.7172,0.0,0.846,,
+RMI2,ENSG00000175643,RecQ mediated genome instability 2,0.5358,True,False,False,,,0.7675,0.0,0.8429,,
+MEN1,ENSG00000133895,menin 1,0.5355,True,False,False,,,0.9242,0.5471,0.6292,,
+FGFR1,ENSG00000077782,fibroblast growth factor receptor 1,0.5352,True,True,True,,0.5368,0.9865,0.0,0.6978,,0.5003
+SOS1,ENSG00000115904,SOS Ras/Rac guanine nucleotide exchange factor 1,0.5351,True,True,False,,,0.4979,0.0,0.8553,,
+RXRA,ENSG00000186350,retinoid X receptor alpha,0.535,True,False,True,,,0.8858,,0.8193,,0.1473
+BCL11A,ENSG00000119866,BCL11 transcription factor A,0.535,False,False,False,,,0.9598,0.0,0.832,,
+ZBTB16,ENSG00000109906,zinc finger and BTB domain containing 16,0.5349,False,False,False,,,0.9177,,0.834,,
+FLT4,ENSG00000037280,fms related receptor tyrosine kinase 4,0.5347,True,True,True,,,0.7814,0.0,0.6941,,0.6728
+ADAM29,ENSG00000168594,ADAM metallopeptidase domain 29,0.5347,False,True,False,,,0.5341,0.8529,,,
+SRC,ENSG00000197122,"SRC proto-oncogene, non-receptor tyrosine kinase",0.5346,True,True,True,,,0.9895,0.0,0.6867,,0.6826
+PDGFRB,ENSG00000113721,platelet derived growth factor receptor beta,0.534,True,True,True,,,0.9665,0.0,0.6893,,0.6702
+SPEN,ENSG00000065526,spen family transcriptional repressor,0.5337,False,False,False,,,0.7995,0.0,0.6377,,
+IKZF3,ENSG00000161405,IKAROS family zinc finger 3,0.5332,True,False,False,,,0.2273,,0.8658,,
+PAX9,ENSG00000198807,paired box 9,0.5331,False,False,False,,,0.2592,0.6911,,,
+ZFPM2,ENSG00000169946,"zinc finger protein, FOG family member 2",0.5326,False,False,False,,,0.5578,0.6786,,,
+PDGFRA,ENSG00000134853,platelet derived growth factor receptor alpha,0.5325,True,True,True,,,0.9028,,0.6893,,0.6665
+TRIM24,ENSG00000122779,tripartite motif containing 24,0.5323,True,False,False,,,0.8325,0.0,0.834,,
+CCDC170,ENSG00000120262,coiled-coil domain containing 170,0.5321,False,False,False,,,0.9191,0.6634,,,
+TRRAP,ENSG00000196367,transformation/transcription domain associated protein,0.5321,True,False,False,,,0.6451,0.0,0.8429,,
+FANCM,ENSG00000187790,FA complementation group M,0.532,False,False,False,0.0061,,0.6649,0.8411,,,
+CSF3R,ENSG00000119535,colony stimulating factor 3 receptor,0.5319,False,True,True,,,0.7081,0.0,0.682,,0.6887
+CCND3,ENSG00000112576,cyclin D3,0.5319,True,False,False,,,0.8594,,0.832,,
+TRIM33,ENSG00000197323,tripartite motif containing 33,0.5313,True,False,False,,,0.8405,,0.832,,
+EPS15,ENSG00000085832,epidermal growth factor receptor pathway substrate 15,0.5312,False,True,False,,,0.159,0.0,0.8659,,
+BCL9,ENSG00000116128,BCL9 transcription coactivator,0.5306,True,False,False,,,0.8994,,0.8278,,
+USP8,ENSG00000138592,ubiquitin specific peptidase 8,0.5303,True,True,False,,,0.89,0.0,0.8279,,
+WRN,ENSG00000165392,WRN RecQ like helicase,0.5301,True,False,False,,,0.8829,0.0,0.8278,,
+RAP1GDS1,ENSG00000138698,Rap1 GTPase-GDP dissociation stimulator 1,0.5288,True,False,False,,,0.0823,0.0,0.8658,,
+DEK,ENSG00000124795,DEK proto-oncogene,0.5288,False,False,False,,,0.9626,0.0,0.8217,,
+MAP3K13,ENSG00000073803,mitogen-activated protein kinase kinase kinase 13,0.5286,True,True,False,,,0.3461,,0.8522,,
+CTCF,ENSG00000102974,CCCTC-binding factor,0.5285,True,False,False,,,0.9482,0.0,0.6786,,
+BCOR,ENSG00000183337,BCL6 corepressor,0.5275,True,False,False,,,0.1984,0.0,0.8577,,
+PTCH1,ENSG00000185920,patched 1,0.5268,True,True,False,,,0.7987,0.6093,0.6964,,
+NUP98,ENSG00000110713,nucleoporin 98 and 96 precursor,0.5266,False,False,False,,,0.551,0.0,0.8387,,
+BUB1B,ENSG00000156970,BUB1 mitotic checkpoint serine/threonine kinase B,0.5264,True,False,False,,,0.8832,0.0,0.8217,,
+TNFSF10,ENSG00000121858,TNF superfamily member 10,0.5261,True,True,False,,,0.9849,0.8162,,,
+RRAS2,ENSG00000133818,RAS related 2,0.5258,True,True,False,,,0.9116,,0.8193,,
+PTPN11,ENSG00000179295,protein tyrosine phosphatase non-receptor type 11,0.5256,True,False,False,,,0.966,0.4552,0.7008,,
+CREB1,ENSG00000118260,cAMP responsive element binding protein 1,0.5238,False,False,False,,,0.9676,,0.8132,,
+ETV6,ENSG00000139083,ETS variant transcription factor 6,0.5237,True,True,False,,,0.3082,0.0,0.846,,
+CREB3L2,ENSG00000182158,cAMP responsive element binding protein 3 like 2,0.5235,False,False,False,,,0.664,0.0,0.8279,,
+GNAQ,ENSG00000156052,G protein subunit alpha q,0.5225,True,True,False,,,0.3635,0.0,0.8413,,
+GIPR,ENSG00000010310,gastric inhibitory polypeptide receptor,0.5224,True,True,True,,,0.5316,0.6477,,,0.152
+LEF1,ENSG00000138795,lymphoid enhancer binding factor 1,0.5224,False,False,False,,,0.9227,0.0,0.8132,,
+ETV5,ENSG00000244405,ETS variant transcription factor 5,0.5218,False,False,False,,,0.4024,0.0,0.8382,,
+RECQL4,ENSG00000160957,RecQ like helicase 4,0.5217,False,False,False,,,0.8922,0.6252,0.682,,
+CBFA2T3,ENSG00000129993,CBFA2/RUNX1 partner transcriptional co-repressor 3,0.5209,False,False,False,,,0.3747,0.0,0.8382,,
+BCL11B,ENSG00000127152,BCL11 transcription factor B,0.5206,False,False,False,,,0.2697,0.0,0.8429,,
+TNS1,ENSG00000079308,tensin 1,0.5206,False,True,False,,,0.1574,0.6788,,,
+TFEB,ENSG00000112561,transcription factor EB,0.5206,True,False,False,,,0.8818,,0.8122,,
+PTPRB,ENSG00000127329,protein tyrosine phosphatase receptor type B,0.5197,True,True,False,,,0.1032,0.0,0.8498,,
+SMAD3,ENSG00000166949,SMAD family member 3,0.5188,True,False,False,,,0.9742,0.6575,0.6673,,
+NFIB,ENSG00000147862,nuclear factor I B,0.5184,False,False,False,,,0.8908,,0.8081,,
+KNL1,ENSG00000137812,kinetochore scaffold 1,0.518,False,False,False,,,0.1083,0.0,0.8467,,
+PHF6,ENSG00000156531,PHD finger protein 6,0.5173,False,False,False,,,0.7734,,0.8122,,
+AFF4,ENSG00000072364,ALF transcription elongation factor 4,0.517,True,False,False,,,0.3565,0.0,0.8326,,
+RANBP2,ENSG00000153201,RAN binding protein 2,0.5169,True,False,False,,,0.1467,0.0,0.8429,,
+RHOH,ENSG00000168421,ras homolog family member H,0.5165,False,True,False,,,0.4358,,0.8279,,
+CBLB,ENSG00000114423,Cbl proto-oncogene B,0.5145,True,False,False,,,0.3715,0.0,0.8278,,
+CCNE1,ENSG00000105173,cyclin E1,0.5125,True,False,False,,,0.9839,0.6155,0.6673,,
+USP6,ENSG00000129204,ubiquitin specific peptidase 6,0.5123,False,True,False,,,0.1765,0.0,0.671,,
+CREBBP,ENSG00000005339,CREB binding lysine acetyltransferase ,0.5122,True,False,False,,,0.9153,0.1174,0.6504,,
+ETNK1,ENSG00000139163,ethanolamine kinase 1,0.512,False,False,False,,,0.4112,,0.8217,,
+MRPS30,ENSG00000112996,mitochondrial ribosomal protein S30,0.5119,True,False,False,,,0.8876,0.6382,,,
